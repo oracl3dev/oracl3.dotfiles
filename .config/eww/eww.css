@@ -1,0 +1,16 @@
+* {
+  font-family: "Fantasque Sans Mono";
+  color: #ffffff;
+}
+
+.clock {
+  font-size: 80px;
+}
+
+.stats {
+  font-size: 20px;
+}
+
+.cava {
+  font-size: 14px;
+}

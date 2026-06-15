@@ -1,0 +1,12 @@
+[Global plugin config]
+manageProfile=false
+
+[SSH Config][91.225.219.157]
+hostname=91.225.219.157
+identifier=91.225.219.157
+importedFromSshConfig=true
+port=
+profileName=Built-in
+sshkey=
+useSshConfig=true
+username=oracl3

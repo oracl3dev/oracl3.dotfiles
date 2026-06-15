@@ -1,0 +1,51 @@
+/* wal-dark.rasi: Rofi theme using wal colors */
+
+@import "file:///home/oracl3/.cache/wal/colors.rasi";
+
+* {
+    background:   rgba(22, 41, 35, 0.85); /* semi-transparent wal background */
+    foreground:   @foreground;
+    border:       2px solid @color4; /* wal accent */
+    border-radius: 12px;
+    padding: 5px;
+    font: "FiraCode Nerd Font 12";
+}
+
+window {
+    width: 50%;
+    location: center;
+    padding: 10px;
+}
+
+listview {
+    lines: 10;
+    fixed-height: 0;
+    element-padding: 6px 8px;
+}
+
+element {
+    border-radius: 8px;
+    padding: 4px;
+}
+
+element:selected {
+    background-color: @color2;  /* wal highlight */
+    color: @background;
+}
+
+inputbar {
+    border-radius: 8px;
+    padding: 5px;
+    background-color: @color0; /* wal dark background */
+    color: @foreground;
+}
+
+textbox {
+    text-color: @foreground;
+}
+
+scrollbar {
+    border: 1px solid @color4;
+    background-color: @color0;
+    handle-color: @color2;
+}

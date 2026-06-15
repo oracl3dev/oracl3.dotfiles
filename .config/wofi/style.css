@@ -1,0 +1,69 @@
+@import "/home/oracl3/.cache/wal/colors-wofi.css";
+
+/* Global reset */
+* {
+    all: unset;
+    font-family: "Fantasque Sans Mono";
+    font-size: 21px;
+}
+
+/* Main window */
+window {
+    background-color: rgba(20,20,25,0.55);
+    border-radius: 16px;
+    border: none;
+}
+
+/* Outer container */
+#outer-box {
+    margin: 10px;
+}
+
+/* Search bar */
+#input {
+    background-color: rgba(0,0,0,0.4);
+    color: @foreground;
+    padding: 12px;
+    margin-bottom: 10px;
+    border-radius: 10px;
+    outline: none;
+    box-shadow: none;
+}
+
+/* Entry list */
+#entry {
+    padding: 10px;
+    border-radius: 10px;
+    color: @foreground;
+}
+
+/* Selected entry */
+#entry:selected {
+    background-color: @color3;
+    color: @background;
+}
+
+/* Remove GTK focus dots */
+#entry:focus {
+    outline: none;
+}
+
+/* Icons */
+#img {
+    margin-right: 20px;
+}
+
+/* Highlighted entry */
+#entry:selected {
+    background-color: @color2;    /* Pywal accent color (usually green) */
+    color: @background;           /* text color from Pywal background */
+    border-left: 4px solid @color2; /* optional accent line in same color */
+    transform: scale(1.03);       /* subtle zoom */
+    transition: all 0.1s ease-in-out;
+}
+
+#entry:selected #img {
+    transform: scale(1.2);        /* icon grows */
+    filter: brightness(1.2);      /* icon brighter */
+    transition: all 0.1s ease-in-out;
+}

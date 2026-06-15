@@ -1,0 +1,24 @@
+(defwidget dashboard []
+  (centerbox
+    :orientation "v"
+    (box :class "top"
+      (label :text {time("%H:%M")} :class "clock")
+    )
+
+    (box :class "middle"
+      (label :text "CPU / RAM / SYSTEM" :class "stats")
+    )
+
+    (box :class "bottom"
+      (label :text "AUDIO VISUALIZER HERE" :class "cava")
+    )
+  )
+)
+
+(defwindow dashboard
+  :monitor 0
+  :geometry (geometry :x "0%" :y "0%" :width "100%" :height "100%")
+  :stacking "fg"
+  :focusable true
+  (dashboard)
+)

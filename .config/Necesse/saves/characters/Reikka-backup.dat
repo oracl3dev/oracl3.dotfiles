@@ -1,0 +1,210 @@
+CHARACTER = {
+	characterUniqueID = 1022065975,
+	name = Reikka,
+	lastUsedAuth = 76561198287227408,
+	lastUsed = {
+		stringID = local,
+		category = ui,
+		key = characterlastworld,
+		REPLACES = {
+			{
+				key = world,
+				replace = {
+					stringID = static,
+					message = nam pizda na etot raz v necesse
+				}
+			}
+		}
+	},
+	MODS = {
+	},
+	PLAYER = {
+		maxHealth = 100,
+		health = 100,
+		maxResilience = 0,
+		resilience = 0.0,
+		maxMana = 100,
+		mana = 100.0,
+		inventoryExtended = false,
+		creativeMenuExtended = true,
+		autoOpenDoors = true,
+		hotbarLocked = false,
+		hungerLevel = 1.1339395,
+		hasGodModeInCreative = true,
+		HEALTH_UPGRADES = {
+		},
+		BUFFS = {
+		},
+		LOOK = {
+			shirtColor = [225, 225, 225, 255],
+			shoesColor = [25, 25, 25, 255],
+			skin = 0,
+			hair = 24,
+			facialFeature = 0,
+			hairColor = 5,
+			eyeType = 1,
+			eyeColor = 7
+		},
+		INVENTORY = {
+			DRAG = {
+				size = 1
+			},
+			MAIN = {
+				size = 50,
+				ITEM = {
+					slot = 0,
+					stringID = woodaxe,
+					amount = 1
+				},
+				ITEM = {
+					slot = 1,
+					stringID = woodsword,
+					amount = 1
+				},
+				ITEM = {
+					slot = 2,
+					stringID = craftingguide,
+					amount = 1
+				},
+				ITEM = {
+					slot = 3,
+					stringID = oaksapling,
+					amount = 2
+				},
+				ITEM = {
+					slot = 4,
+					stringID = woodpickaxe,
+					amount = 1
+				},
+				ITEM = {
+					slot = 5,
+					stringID = sprucelog,
+					amount = 19
+				},
+				ITEM = {
+					slot = 6,
+					stringID = sprucesapling,
+					amount = 6
+				},
+				ITEM = {
+					slot = 7,
+					stringID = goldore,
+					amount = 2
+				},
+				ITEM = {
+					slot = 8,
+					stringID = copperore,
+					amount = 1
+				},
+				ITEM = {
+					slot = 9,
+					stringID = ironore,
+					amount = 3
+				},
+				ITEM = {
+					slot = 47,
+					stringID = stone,
+					amount = 15
+				}
+			},
+			ARMOR = {
+				size = 3
+			},
+			COSMETIC = {
+				size = 3,
+				ITEM = {
+					slot = 1,
+					stringID = shirt,
+					amount = 1,
+					GNDData = {
+						red = {
+							gndType = byte,
+							value = -31
+						},
+						green = {
+							gndType = byte,
+							value = -31
+						},
+						blue = {
+							gndType = byte,
+							value = -31
+						}
+					}
+				},
+				ITEM = {
+					slot = 2,
+					stringID = shoes,
+					amount = 1,
+					GNDData = {
+						red = {
+							gndType = byte,
+							value = 25
+						},
+						green = {
+							gndType = byte,
+							value = 25
+						},
+						blue = {
+							gndType = byte,
+							value = 25
+						}
+					}
+				}
+			},
+			EQUIPMENT = {
+				size = 2
+			},
+			TRINKETS = {
+				size = 4
+			},
+			selectedSet = 0,
+			CLOUD = {
+				size = 1
+			},
+			PARTY = {
+				size = 5
+			}
+		}
+	},
+	STATS = {
+		time_played = {
+			value = 175
+		},
+		distance_ran = {
+			value = 9367
+		},
+		damage_dealt = {
+			value = 400
+		},
+		objects_mined = {
+			value = 19
+		},
+		objects_placed = {
+			value = 5
+		},
+		ladders_used = {
+			value = 1
+		},
+		doors_used = {
+			value = 8
+		},
+		crafted_items = {
+			value = 2
+		},
+		type_damage_dealt = {
+			melee = 393
+		},
+		biomes_known = {
+			visitedBiomes = [forest]
+		},
+		discovered_journal_entries = {
+			discoveredJournalEntries = [forestcave, forestsurface]
+		},
+		items_obtained = {
+			items = [woodsword, torch, oaksapling, shoes, goldore, sprucesapling, stone, shirt, sprucelog, woodpickaxe, craftingguide, oaklog, woodaxe, ironore, copperore]
+		},
+		mob_kills = {
+			zombie = 4
+		}
+	}
+}

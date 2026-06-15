@@ -1,0 +1,67 @@
+[2026-05-05 10:32:15] SYSTEM INFO:
+[2026-05-05 10:32:15] 	Username: oracl3
+[2026-05-05 10:32:15] 	OS: GNU/Linux Steam Runtime 2 (soldier) build 6.18.25-1-lts
+[2026-05-05 10:32:15] 	CPU: AMD Ryzen 5 5600X 6-Core Processor
+[2026-05-05 10:32:15] 	OS arch: amd64
+[2026-05-05 10:32:15] 	Memory total: 33.57 GB
+[2026-05-05 10:32:15] 	Memory max: 4.29 GB
+[2026-05-05 10:32:15] 	Java path: /home/oracl3/.local/share/Steam/steamapps/common/Necesse/jre
+[2026-05-05 10:32:15] 	Java version: 17.0.14
+[2026-05-05 10:32:15] 	JVM arguments:
+[2026-05-05 10:32:15] 		-XX:+UnlockExperimentalVMOptions
+[2026-05-05 10:32:15] 		-XX:+UseG1GC
+[2026-05-05 10:32:15] 		-XX:+ExplicitGCInvokesConcurrent
+[2026-05-05 10:32:15] 		-XX:G1NewSizePercent=20
+[2026-05-05 10:32:15] 		-XX:G1ReservePercent=20
+[2026-05-05 10:32:15] 		-XX:MaxGCPauseMillis=50
+[2026-05-05 10:32:15] 		-XX:G1HeapRegionSize=32M
+[2026-05-05 10:32:15] 		-Xms512m
+[2026-05-05 10:32:15] 		-Xmx4G
+[2026-05-05 10:32:15] 	LWJGL version: 3.3.2+13
+[2026-05-05 10:32:15] 	Root path: /home/oracl3/.local/share/Steam/steamapps/common/Necesse/
+[2026-05-05 10:32:15] 	AppData path: /home/oracl3/.config/Necesse/
+[2026-05-05 10:32:15] 	Working dir: /home/oracl3/.local/share/Steam/steamapps/common/Necesse
+[2026-05-05 10:32:15] 	Natives path: INTERNAL
+[2026-05-05 10:32:16] GRAPHICS INFO:
+[2026-05-05 10:32:16] 	Graphics card: NVIDIA Corporation, NVIDIA GeForce RTX 4060 Ti/PCIe/SSE2
+[2026-05-05 10:32:16] 	OpenGL version: 4.6.0 NVIDIA 595.71.05
+[2026-05-05 10:32:16] Detected 1 controllers
+[2026-05-05 10:32:16] Started client on version 1.2.0 build 22728942 with authentication 76561198287227408.
+[2026-05-05 10:32:22] Starting to load level presets region surface (0x0)
+[2026-05-05 10:37:43] Starting to load level presets region surface (0x-64)
+[2026-05-05 10:38:28] Starting to load level presets region surface (64x-64)
+[2026-05-05 10:38:28] Starting to load level presets region surface (64x0)
+[2026-05-05 10:45:29] Unloading level presets region surface (0x0)
+[2026-05-05 10:45:29] Unloading level presets region surface (64x0)
+[2026-05-05 10:46:13] Unloading level presets region surface (0x-64)
+[2026-05-05 10:57:04] Starting to load level presets region surface (64x-128)
+[2026-05-05 10:57:48] Starting to load level presets region surface (128x-128)
+[2026-05-05 10:57:48] Starting to load level presets region surface (128x-64)
+[2026-05-05 10:58:42] Started singleplayer server on world nam pizda na etot raz v necesse.zip, game version 1.2.0
+[2026-05-05 10:58:42] Found 1 saved players.
+[2026-05-05 10:58:42] Client "Reikka" connected on slot 1/1.
+[2026-05-05 10:58:42] Loaded player: 76561198287227408
+[2026-05-05 10:58:42] Chat > Reikka ????????????!
+[2026-05-05 10:58:49] Chat > Reikka ?????????????!
+[2026-05-05 10:58:49] Starting to load level presets region cave (-64x64)
+[2026-05-05 11:00:01] Running an auto save with backup...
+[2026-05-05 11:00:01] Starting world save
+[2026-05-05 11:00:02] Reloaded file system in 432.59 us
+[2026-05-05 11:00:02] Copying backup to path: /home/oracl3/.config/Necesse/saves/worlds/LATEST_BACKUP2.zip
+[2026-05-05 11:00:02] Finished backup
+[2026-05-05 11:00:19] Changed Reikka level to surface
+[2026-05-05 11:00:19] Starting to load level presets region surface (-64x64)
+[2026-05-05 11:00:32] Chat > ?aReikka ??????? ?????????? ?7?????????
+[2026-05-05 11:00:32] Chat > ????? ??????????? ???????????!
+[2026-05-05 11:00:49] Unloaded level cave
+[2026-05-05 11:00:49] Unloading level presets region cave (-64x64)
+[2026-05-05 11:01:02] Auto save: Reloaded file system in 1.33 ms
+[2026-05-05 11:01:11] Starting world save
+[2026-05-05 11:01:11] Starting to load level presets region surface (0x0)
+[2026-05-05 11:01:12] Completed world save before stopping server
+[2026-05-05 11:01:12] Stopped server on 2026/05/05 11:01:12 with code: SERVER_STOPPED
+[2026-05-05 11:01:12] World time: 283, day 0
+[2026-05-05 11:01:12] Game time: 239286
+[2026-05-05 11:01:12] Total ticks: 3013
+[2026-05-05 11:01:12] Received: 34.24 kB (1268 packets)
+[2026-05-05 11:01:12] Sent: 919 kB (7368 packets)

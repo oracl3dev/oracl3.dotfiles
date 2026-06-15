@@ -1,0 +1,34 @@
+[Default Applications]
+text/plain=com.visualstudio.code.desktop
+application/x-compressed-tar=thunar.desktop
+application/x-zerosize=com.visualstudio.code.desktop
+image/png=librewolf.desktop
+x-scheme-handler/obsidian=obsidian.desktop
+application/vnd.openxmlformats-officedocument.wordprocessingml.document=librewolf.desktop
+application/octet-stream=com.visualstudio.code.desktop
+application/vnd.microsoft.portable-executable=wine-extension-msp.desktop
+video/x-matroska=librewolf.desktop
+video/mp4=librewolf.desktop
+audio/mpeg=librewolf.desktop
+x-scheme-handler/discord=vesktop.desktop
+text/html=librewolf.desktop
+x-scheme-handler/http=librewolf.desktop
+x-scheme-handler/https=librewolf.desktop
+x-scheme-handler/about=librewolf.desktop
+x-scheme-handler/unknown=librewolf.desktop
+application/x-shellscript=com.visualstudio.code.desktop
+
+[Added Associations]
+text/plain=kitty-open.desktop;com.visualstudio.code.desktop;
+application/x-shellscript=com.visualstudio.code.desktop;kitty-open.desktop;vim.desktop;
+application/x-compressed-tar=thunar.desktop;discord.desktop;
+application/x-zerosize=kitty.desktop;com.visualstudio.code.desktop;
+image/png=librewolf.desktop;
+application/xml=com.visualstudio.code.desktop;
+application/vnd.openxmlformats-officedocument.wordprocessingml.document=librewolf.desktop;
+application/octet-stream=com.visualstudio.code.desktop;
+application/vnd.microsoft.portable-executable=wine-extension-msp.desktop;
+video/x-matroska=librewolf.desktop;
+video/mp4=librewolf.desktop;
+audio/mpeg=librewolf.desktop;
+image/jpeg=librewolf.desktop;

@@ -1,0 +1,4 @@
+[Bookmarks]
+!Home
+/home/oracl3/
+[Recent]

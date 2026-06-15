@@ -1,0 +1,11 @@
+show=drun
+width=600
+height=400
+location=center
+lines=6
+columns=1
+prompt=Search...
+allow_images=true
+show-icons=true
+icon-size=36
+term=kitty
