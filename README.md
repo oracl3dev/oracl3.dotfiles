@@ -5,16 +5,16 @@ Personal dotfiles for Arch Linux + Hyprland setup.
 ## Stack
 
 - **WM:** Hyprland (Wayland)
-- **Bar:** Waybar + Hyaprpanel
+- **Bar:** Noctalia
 - **Terminal:** Kitty (Alacritty preinstalled in case kitty crashes as it did when i first installed Hyprland. Mind that Konsole terminal emulator should be preinstalled)
 - **Shell:** Fish + Oh My Posh
 - **Launcher:** Rofi / Wofi
 - **Notifications:** Dunst
-- **File Manager:** Thunar / nnn
+- **File Manager:** Thunar
 - **System Monitor:** btop / htop
 - **Audio Visualizer:** Cava
 - **Fetch:** Fastfetch
-- **Widgets:** Eww
+- **Widgets:** Eww (non configured)
 - **Color Scheme:** pywal
 
 ## Installation
